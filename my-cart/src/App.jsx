@@ -84,10 +84,7 @@ export default function App() {
           className="BTNproduct"
           >Home</button>
 
-        <h1
-        style={{
-          marginTop:"10px"
-        }}
+        <h1 className="heading"
         >Neog Phones 
         </h1>
 
