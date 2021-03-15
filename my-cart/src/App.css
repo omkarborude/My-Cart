@@ -183,4 +183,33 @@
     width: 60px;
     font-size: 16px;
   }
+  .productlist{
+    width: 200px;
+  }
+  .imd-div img{
+    width: 200px;
+  }
+  .info .rating{
+    font-size: 16px;
+    font-weight: bold;
+ }
+ .price{
+   font-size: 15px;
+ }
+ .price .off{
+   font-size: 10px;
+ }
+ .BTNaddtocart{
+   width: 100px;
+   height: 50px;
+   font-size: 16px;
+   margin-top: -30px;
+ }
+ .BTNaddtocart:hover{
+  background-color: #ff1476;
+  color: white;
+  transition: 0.3s;
+  cursor: pointer;
+  outline: none;
+ }
 }
